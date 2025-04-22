@@ -1,0 +1,23 @@
+2025-04-21T21:01:14.122-03:00  INFO 18416 --- [board-application] [           main] liquibase.changelog                      : Reading resource: db/changelog/migrations/db.changelog-202504211540.sql
+2025-04-21T21:01:14.136-03:00  INFO 18416 --- [board-application] [           main] liquibase.changelog                      : Reading resource: db/changelog/migrations/db.changelog-202504211647.sql
+2025-04-21T21:01:14.144-03:00  INFO 18416 --- [board-application] [           main] liquibase.changelog                      : Reading resource: db/changelog/migrations/db.changelog-202504211652.sql
+2025-04-21T21:01:14.144-03:00  INFO 18416 --- [board-application] [           main] liquibase.changelog                      : Reading resource: db/changelog/migrations/db.changelog-202504211656.sql
+2025-04-21T21:01:14.398-03:00  INFO 18416 --- [board-application] [           main] liquibase.changelog                      : Reading from board.databasechangelog
+Database is up to date, no changesets to execute
+2025-04-21T21:01:14.463-03:00  INFO 18416 --- [board-application] [           main] liquibase.changelog                      : Reading from board.databasechangelog
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               4
+Filtered out:                 0
+-------------------------------
+Total change sets:            4
+
+2025-04-21T21:01:14.471-03:00  INFO 18416 --- [board-application] [           main] liquibase.util                           : UPDATE SUMMARY
+2025-04-21T21:01:14.471-03:00  INFO 18416 --- [board-application] [           main] liquibase.util                           : Run:                          0
+2025-04-21T21:01:14.471-03:00  INFO 18416 --- [board-application] [           main] liquibase.util                           : Previously run:               4
+2025-04-21T21:01:14.471-03:00  INFO 18416 --- [board-application] [           main] liquibase.util                           : Filtered out:                 0
+2025-04-21T21:01:14.471-03:00  INFO 18416 --- [board-application] [           main] liquibase.util                           : -------------------------------
+2025-04-21T21:01:14.471-03:00  INFO 18416 --- [board-application] [           main] liquibase.util                           : Total change sets:            4
+2025-04-21T21:01:14.471-03:00  INFO 18416 --- [board-application] [           main] liquibase.util                           : Update summary generated
+2025-04-21T21:01:14.471-03:00  INFO 18416 --- [board-application] [           main] liquibase.command                        : Command execution complete
